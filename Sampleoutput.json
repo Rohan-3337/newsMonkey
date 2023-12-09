@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lancet study: More than 100 million people in India diabetic",
+            "description": "Researchers found more Indians were living with diabetes than previously estimated.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-65852551",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A84/production/_130040829_gettyimages-519510402-594x594.jpg",
+            "publishedAt": "2023-06-09T09:37:19.1746678Z",
+            "content": "A new study published in Lancet has found that 101 million people in India - 11.4% of the country's population - are living with diabetes.\r\nThe study commissioned by the health ministry also found th… [+3529 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine army attacks Russian forces in southern Zaporizhzhia region",
+            "description": "Military observers say Kyiv is trying to split the occupying forces in Zaporizhzhia.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65851760",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2E75/production/_130039811_1d2230532b0cff4828bd3ec4d3a3f203a0b932c7-1.jpg",
+            "publishedAt": "2023-06-09T08:37:19.0867083Z",
+            "content": "Ukraine's military has launched attacks on occupying Russian forces in the key southern Zaporizhzhia region, Russian officials and military bloggers say.\r\nThey say Ukrainian troops - backed by tanks,… [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France knife attack: Two children in critical condition after Annecy stabbing",
+            "description": "The pre-school children remain in a \"life-threatening emergency\", a government spokesman says, following the attack in Annecy.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-65854243",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-06-09T08:22:21.3775722Z",
+            "content": "Hello and welcome to our live coverage a day after a knifeman\r\nattacked four young children in a park in Annecy in Frances south-east.\r\nTwo of the children remain in a life-threatening\r\ncondition, a … [+557 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Oleg Orlov faces jail time for criticising Putin's war",
+            "description": "Kremlin critics like Oleg Orlov are facing jail terms for criticising Russia's war in Ukraine.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65838473",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15363/production/_130038868_capture.png",
+            "publishedAt": "2023-06-09T06:22:15.9910793Z",
+            "content": "As soon as he enters the Moscow courtroom, Oleg Orlov makes crystal clear his feelings about being put on trial for criticising the war in Ukraine.\r\nThe veteran Russian human rights defender opens hi… [+5230 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine on attack in south to split Russian stronghold",
+            "description": "Kyiv has been launching attacks in the key region of Zaporizhzhia, say Russian officials.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-65851660",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-06-09T05:37:16.9714425Z",
+            "content": "Welcome to our live coverage of the war in Ukraine\r\nOvernight, Ukrainian attacks in the key southern Zaporizhzhia region have been continuing, Russian officials and military bloggers have reported he… [+541 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The divisive debate over California's anti-caste bill",
+            "description": "California will become the first US state to ban caste discrimination if the legislation is approved.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-65819688",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143FC/production/_130004928_download-5.jpg",
+            "publishedAt": "2023-06-09T04:07:20.9250104Z",
+            "content": "A bill introduced to make caste discrimination illegal in California is set to come up for discussion in the state assembly this week. Savita Patel, a California-based independent journalist, speaks … [+5962 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Girl, 10, found after spending night lost in US Cascade mountains",
+            "description": "Wearing a T-shirt and jeans, the girl slept between two trees as temperatures dropped to 38F (3C).",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65839797",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32C1/production/_130039921_352472516_640218471307285_5849299523239659209_n.jpg",
+            "publishedAt": "2023-06-09T02:52:14.8144059Z",
+            "content": "A 10-year-old girl was rescued after spending a night lost and alone in the frigid cold Cascade mountains outside of Seattle, Washington. \r\nShunghla Mashwani became separated from her family during a… [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada wildfires: US East Coast sees worst air quality in years",
+            "description": "US President Joe Biden says the dense cloak of smoke is a \"stark reminder\" of climate change.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65828469",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BEF3/production/_130038884_661d7fdfa489e56874f234d0adbc0d4a72d01ff5.jpg",
+            "publishedAt": "2023-06-08T23:52:15.143582Z",
+            "content": "Media caption, Watch: How to keep safe from wildfire smoke\r\nWashington DC and Philadelphia experienced their worst air quality in years as intense wildfires in Canada continue to impact millions. \r\nT… [+4704 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada wildfires: Global help arrives as Quebec fights ‘historic’ fires",
+            "description": "With crews on the ground working 14-hour days, Quebec is welcoming help from France and the US.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65850628",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C0C/production/_130040058_6ad019e6e2bba25a513da1f2b5cb2232fe3a52840_0_4898_32651000x667.jpg",
+            "publishedAt": "2023-06-08T22:52:16.7831252Z",
+            "content": "The wildfires that have blanketed large area of eastern North America with smoke seemingly spread overnight in early June in the Canadian province of Quebec, thanks to dry and hot weather and several… [+5032 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "El Niño planet-warming weather phase has begun",
+            "description": "Storms, droughts and record high temperatures lie ahead as US scientists confirm that El Niño has arrived.",
+            "url": "http://www.bbc.co.uk/news/science-environment-65839060",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA57/production/_130030774_gettyimages-1248304400.jpg",
+            "publishedAt": "2023-06-08T13:37:20.2744806Z",
+            "content": "A natural weather event known as El Niño has begun in the Pacific Ocean, likely adding heat to a planet already warming under climate change.\r\nUS scientists confirmed that El Niño had started. Expert… [+4361 chars]"
+        }
+    ]
+}
